@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/robowar/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/robowar/static/js/main.2a1b147f.chunk.js",
+    "main.js.map": "/robowar/static/js/main.2a1b147f.chunk.js.map",
+    "runtime-main.js": "/robowar/static/js/runtime-main.437d9183.js",
+    "runtime-main.js.map": "/robowar/static/js/runtime-main.437d9183.js.map",
+    "static/css/2.66b7f74f.chunk.css": "/robowar/static/css/2.66b7f74f.chunk.css",
+    "static/js/2.a10038f9.chunk.js": "/robowar/static/js/2.a10038f9.chunk.js",
+    "static/js/2.a10038f9.chunk.js.map": "/robowar/static/js/2.a10038f9.chunk.js.map",
+    "index.html": "/robowar/index.html",
+    "precache-manifest.76f50c3c12c4f5a18cd9da8661cdb6da.js": "/robowar/precache-manifest.76f50c3c12c4f5a18cd9da8661cdb6da.js",
+    "service-worker.js": "/robowar/service-worker.js",
+    "static/css/2.66b7f74f.chunk.css.map": "/robowar/static/css/2.66b7f74f.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/robowar/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.a10038f9.chunk.js.LICENSE.txt": "/robowar/static/js/2.a10038f9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.437d9183.js",
+    "static/css/2.66b7f74f.chunk.css",
+    "static/js/2.a10038f9.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.2a1b147f.chunk.js"
+  ]
+}
